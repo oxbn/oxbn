@@ -9,7 +9,6 @@ I will using this account for small projects, experimentation, and learning new 
 # Tech & Tools
 - Python, C++, Lua
 - Obsidian, Figma
-- 
 
 # About me
 - I enjoy building projects that solve real problems.
